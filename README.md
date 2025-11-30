@@ -1,4 +1,4 @@
-# CantinaCast - Sistema de Gestão de Ementas da UAlg
+# CantinaCast - Sistema de Gestão de Ementas
 
 ## Visão Geral
 
